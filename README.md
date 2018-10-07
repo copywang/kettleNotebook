@@ -2,7 +2,7 @@
 
 章节：
 
-[kettle系列之一 基础知识.md]: kettle系列之一 基础知识.md	"kettle系列之一 基础知识.md"
+[kettle系列之一 基础知识.md](kettle系列之一 基础知识.md)
 
 PDI基础知识，包括简介，环境搭建和一些基础名词
 

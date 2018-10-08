@@ -24,11 +24,11 @@ pentaho-kettle是一款开源的ETL工具，官方名称是Pentaho Data Integrat
 
 下载链接：https://sourceforge.net/projects/pentaho/files/
 
-![1538920265987](assets\1538920265987.png)
+![1538920265987](assets/1538920265987.png)
 
 也可以下载7.1稳定版本
 
-![1538920325297](assets\1538920325297.png)
+![1538920325297](assets/1538920325297.png)
 
 ### 下载官方源码，本地编译打包
 
@@ -38,7 +38,7 @@ https://github.com/pentaho/pentaho-kettle/tree/8.1.0.5
 
 编译过程直接参考官方文档：注意maven要配置pentaho的仓库
 
-![1538920441906](assets\1538920441906.png)
+![1538920441906](assets/1538920441906.png)
 
 使用maven打包，生产zip文件夹，直接解压就可以使用
 

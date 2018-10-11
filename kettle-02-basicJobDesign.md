@@ -222,6 +222,14 @@ https://jira.pentaho.com/browse/PDI-1463
 
 
 
+参考资料：
+
+[kettle中实现动态SQL查询](https://blog.csdn.net/neweastsun/article/details/39287809)
+
+[Kettle变量参数传递](https://blog.csdn.net/gb83421185/article/details/79404447)
+
+
+
 
 
 

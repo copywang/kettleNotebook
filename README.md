@@ -14,11 +14,15 @@
 
    PDI的数据库表，基于数据库资源库，一些简单的表结构分析
 
-4. [kettle系列之四 kettle远程执行和调度](kettle-04-Cluster.md)
+4. [kettle系列之四 linux下使用kettle执行和调度](kettle-04-linux-kettle.md)
 
-   PDI的集群安装，基于数据库资源库，linux环境下的PDI安装和执行Job
+   linux环境下PDI的安装，基于数据库资源库，执行Job
 
-5. [SpringBoot集成kettle](kettle-05-intergrateWithJava.md)
+5. [kettle系列之五kettle远程执行和调度](kettle-05-Cluster.md)
+
+   PDI的集群安装，远程执行Job
+
+6. [SpringBoot集成kettle](kettle-05-intergrateWithJava.md)
 
    PDI的Java集成，集成设计(文件库和资源库)，密码加密方式，本地执行和远程执行，Job启动和停止，日志设计
 
